@@ -1,33 +1,37 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="MarriotZ's GitHub" />
  <h2 align="center">MarriotZ's GitHub</h2>
- <p align="center">在你的 README 中获取动态生成的 GitHub 统计信息！</p>
+ <p align="center">Welcome to my GitHub</p>
 </p>
 
 <p align="center">
-    <a href="/docs/readme_fr.md">English</a>
+    <a href="/docs/readme_chs.md">简体中文</a>
     ·
-    <a href="/docs/readme_cn.md">简体中文</a>
+    <a href="/docs/readme_cht.md">繁体中文</a>
+    ·
+    <a href="/docs/readme_en.md">English</a>
+    ·
+    <a href="/docs/readme_jp.md">日本語</a>
 </p>
   
-### Hi there, Welcome to my GitHub 🌱
+### Hi 老伙计, 欢迎来到我的GitHub 🌱
 
-> I'm a back-end developer from **Nanjing, Jiangsu, China**.
+> 目前我主要承担后端开发工作，平时喜欢做分享和开源，同时也是一名美剧、英剧爱好者
 
-### 🔭 Learning:
+### 🔭 正在使用的技术栈:
 
 
 
-### 📫 Contact me:
+### 📫 联系方式:
 
 - **WeChat** : Zeng-zihan
 - **E-mail** : zihantsang@hotmail.com
 
-### 🏠 Blog:
+### 🏠 个人博客:
 
 - **[CSDN博客](https://blog.csdn.net/weixin_42839065)**
 
-### 📊 Stats:
+### 📊 统计数据:
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarriotZ&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarriotZ&layout=compact&theme=buefy&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
