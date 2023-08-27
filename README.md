@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="MarriotZ's GitHub" />
+ <img width="100px" src="./resources/animal.jpeg" align="center" alt="MarriotZ's GitHub" />
  <h2 align="center">MarriotZ's GitHub</h2>
  <p align="center">Welcome to my GitHub</p>
 </p>
