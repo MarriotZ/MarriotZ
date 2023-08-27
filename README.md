@@ -1,5 +1,15 @@
-<p align="center"><img width="100%" src="./assets/header.png" /></p>
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="MarriotZ's GitHub" />
+ <h2 align="center">MarriotZ's GitHub</h2>
+ <p align="center">在你的 README 中获取动态生成的 GitHub 统计信息！</p>
+</p>
 
+<p align="center">
+    <a href="/docs/readme_fr.md">English</a>
+    ·
+    <a href="/docs/readme_cn.md">简体中文</a>
+</p>
+  
 ### Hi there, Welcome to my GitHub 🌱
 
 > I'm a back-end developer from **Nanjing, Jiangsu, China**.
