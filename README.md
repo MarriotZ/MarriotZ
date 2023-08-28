@@ -14,7 +14,7 @@
     <a href="/docs/readme_jp.md">日本語</a>
 </p>
   
-### Hi 老伙计, 欢迎来到我的GitHub 🌱
+### Hi 老伙计, 欢迎来到我的GitHub 👋 😊
 
 > 目前我主要承担后端开发工作
 
@@ -37,6 +37,9 @@
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarriotZ&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarriotZ&layout=compact&theme=buefy&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+### 访问统计
+![Visitor Count](https://profile-counter.glitch.me/MarriotZ/count.svg)
 
 <!--
 **MarriotZ/MarriotZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
