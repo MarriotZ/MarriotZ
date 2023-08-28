@@ -1,7 +1,6 @@
 <p align="center">
  <img width="1100px" height="400px" src="./resources/backanime.gif" align="center" alt="MarriotZ's GitHub" />
  <h2 align="center">MarriotZ's GitHub</h2>
- <p align="center">Welcome to my profile</p>
 </p>
 
 <p align="center">
@@ -27,21 +26,6 @@
 目前我主要承担后端开发工作
 
 平时喜欢做**分享和开源**，同时也是一名**美、英剧爱好者**~
-
-## 💡 正在使用的编程语言:
-
-
-
-## 🔭 
-
-## 📫 联系方式:
-
-- **Wechat** : Zeng-zihan
-- **E-mail** : zihantsang@hotmail.com
-
-## 🏠 个人博客:
-
-- **[CSDN博客](https://blog.csdn.net/weixin_42839065)**
 
 ## 🛠️ 我的技术栈
 
@@ -83,6 +67,18 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+
+## 🔭 
+
+## 📫 联系方式:
+
+- **Wechat** : Zeng-zihan
+- **E-mail** : zihantsang@hotmail.com
+
+## 🏠 个人博客:
+
+- **[CSDN博客](https://blog.csdn.net/weixin_42839065)**
+
 
 ## 📊 统计数据:
 
