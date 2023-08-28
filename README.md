@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/zihan-zeng-max-1b26a8201"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@zobro23"><img width="32px" title="Medium" src="https://i.imgur.com/8G9R1ep.png"/></a>
+  <a href="https://twitter.com/zihantsang"><img width="32px" title="X(Twitter)" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAA3ElEQVR4Ac2SGQDFMBBE1ylOcYpTner0neK0TnGpU53iFKc6xWl+p+f25D7InZ295Cv0mGjFUOzWDVVVa/WykaBiaBBFfsiyory3JASRjs8mInqxUGRw47CIBIy7Ew0Sh0nED4OXCwkNh8h7GrrgCkVK9a7w6Q2BjoVa6Oo9EZEDVJ7I1M4UeMDXzIEhvoukFxNMaP8o4gpon1l9qnqc7DcPIgpd7Ce0t/fJVO0q0qIsVeuY1XwNYK1gwm8J2GAqvHRF5mD7BcG0Rl6yegjw0BqdakE8Bni0RyjyDf4Y1Y0n0wNT4wAAAABJRU5ErkJggg=="/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://fiverr.com/zobro23"><img width="32px" title="Fiverr" src="https://i.imgur.com/OyA8gsq.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
