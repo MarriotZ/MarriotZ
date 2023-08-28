@@ -1,5 +1,5 @@
 <p align="center">
- <img width="1100px" height="400px" src="./resources/backanime.gif" align="center" alt="MarriotZ's GitHub" />
+ <img width="1100px" height="550px" src="./resources/backanime.gif" align="center" alt="MarriotZ's GitHub" />
  <h2 align="center">MarriotZ's GitHub</h2>
 </p>
 
