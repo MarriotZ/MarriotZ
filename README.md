@@ -49,9 +49,9 @@
 
 <p>
     <a href="https://github.com/search?q=user%3MarriotZ+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3MarriotZ+language%3AC"><img alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3MarriotZ+language%3AC%2B%2B"><img alt="c++" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3MarriotZ+language%3Ago"><img alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3MarriotZ+language%3AC"><img alt="c" src="https://img.shields.io/badge/C?logo=c&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3MarriotZ+language%3AC%2B%2B"><img alt="c++" src="https://img.shields.io/badge/C%2B%2?logo=cplusplus&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3MarriotZ+language%3Ago"><img alt="go" src="https://img.shields.io/badge/Go?logo=go&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3MarriotZ+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3MarriotZ+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3MarriotZ+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
