@@ -39,7 +39,7 @@
 
 ## 📫 联系方式:
 
-- ![](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white) : Zeng-zihan
+- **Wechat** : Zeng-zihan
 - **E-mail** : zihantsang@hotmail.com
 
 ## 🏠 个人博客:
