@@ -26,7 +26,7 @@
 
 ### 📫 联系方式:
 
-- **WeChat** : Zeng-zihan
+- ![image](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white) : Zeng-zihan
 - **E-mail** : zihantsang@hotmail.com
 
 ### 🏠 个人博客:
