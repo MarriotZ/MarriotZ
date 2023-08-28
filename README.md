@@ -20,13 +20,18 @@
 
 >平时喜欢做分享和开源，同时也是一名美、英剧爱好者~
 
-### 🔭 正在使用的技术栈:
+### 💡 正在使用的编程语言:
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
-
+### 🔭 
 
 ### 📫 联系方式:
 
-- ![image](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white) : Zeng-zihan
+- ![](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white) : Zeng-zihan
 - **E-mail** : zihantsang@hotmail.com
 
 ### 🏠 个人博客:
