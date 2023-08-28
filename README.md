@@ -35,7 +35,7 @@
 
 ### 📊 统计数据:
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarriotZ&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarriotZ&layout=compact&theme=buefy&hide_border=true" alt="" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarriotZ&show_icons=true&theme=tokyonight&count_private=true&bg_color=start&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarriotZ&layout=compact&theme=buefy&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ### 访问统计
