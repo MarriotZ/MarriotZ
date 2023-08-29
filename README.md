@@ -21,11 +21,13 @@
 </p>
 <br/>
 
-## Hi 老伙计, 欢迎来到我的GitHub 👋 😊
+## Hi 伙计, 欢迎来到我的GitHub 😊
 
 目前我主要承担后端开发工作
 
-平时喜欢做**分享和开源**，同时也是一名**美、英剧爱好者**~
+喜欢利用平时空余时间来撰写博客，同时也原意将一些所做项目进行开源。
+
+另外，我也是一名美、英剧爱好者，欢迎大家推荐给我好看的剧目
 
 ## 🛠️ 我的技术栈
 
@@ -82,7 +84,7 @@
 
 ## 📊 统计数据:
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarriotZ&show_icons=true&theme=transparent&count_private=true&bg_color=start&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarriotZ&layout=compact&theme=transparent&hide_border=true" alt="" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarriotZ&hide=contribs,prs&show_icons=true&theme=transparent&count_private=true&bg_color=start&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarriotZ&layout=compact&theme=transparent&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <!--
