@@ -100,7 +100,8 @@
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarriotZ&hide=contribs,prs&show_icons=true&theme=transparent&count_private=true&bg_color=start&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarriotZ&layout=compact&theme=transparent&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
--->
+
+-- >
 
 <!--
 **MarriotZ/MarriotZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
