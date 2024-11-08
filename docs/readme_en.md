@@ -23,11 +23,9 @@
 
 ## Hi Guys, Welcome to my GitHub 😊
 
-Currently I am mainly responsible for the back-end development
+I am studying at Trinity College Dublin now, and I like using my free time to write seome tech articles and publish them on my Blog 
 
-I occasionally like to write some tech articles on my Blog and work on open source projects.
-
-## 🛠️ My Technology Stack
+## 🛠️ My Technical Stack
 
 ### 👨‍💻 Computer Languages
 
