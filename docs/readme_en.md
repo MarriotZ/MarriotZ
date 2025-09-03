@@ -25,28 +25,6 @@
 
 I am studying at Trinity College Dublin now, and I like using my free time to write seome tech articles and publish them on my Blog 
 
-## 🛠️ My Technical Stack
-
-### 👨‍💻 Computer Languages
-
-     **C/C++, Go, Bash Shell, Lua, SQL**
-
-### 🔭 Programming Skills
-
-     **Socket, Multi-thread, STL**
-     
-### 🧰 Development frameworks
-
-     **Qt, Gin**
-
-### 🗄️ Databases
-
-     **MySQL, Redis**
-
-### 💻 Software & Tools
-
-     **Git, SVN, CMake, Visual Studio Code**
-
 ## 📫 Contacts
 
 - **Wechat** : Zeng-zihan
