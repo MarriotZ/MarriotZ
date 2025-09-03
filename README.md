@@ -23,31 +23,7 @@
 
 ## Hi 伙计, 欢迎来到我的GitHub 
 
-目前主要从事ADAS/后端开发工作
-
 偶尔会用休闲时间来写写博客，同时做一些开源项目。
-
-## 🛠️ 我的技术栈
-
-### 👨‍💻 计算机语言
-
-     **C/C++, Go, Bash Shell, Lua, SQL**
-
-### 🔭 编程技能
-
-     **Socket, Multi-thread, STL**
-     
-### 🧰 开发框架
-
-     **Qt, Gin**
-
-### 🗄️ 数据库
-
-     **MySQL, Redis**
-
-### 💻 软件和工具
-
-     **Git, SVN, CMake, Visual Studio Code**
 
 ## 📫 联系方式
 
