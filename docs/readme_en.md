@@ -25,13 +25,13 @@
 I am studying at Trinity College Dublin, and I like using my free time to write seome tech articles and publish them on my Blog 
 
 ## 📫 Contacts
-
+- **WhatsApp** : (+353)894733047
 - **Wechat** : Zeng-zihan
 - **E-mail** : zihantsang@hotmail.com
 
 ## 🏠 Personal Blog
 
-- **[CSDN博客](https://blog.csdn.net/weixin_42839065)**
+- **[dev.to](https://blog.csdn.net/weixin_42839065)**
 
 
 <!-- ## 📊 统计数据:
