@@ -22,7 +22,7 @@
 
 ## Hi Guys, Welcome to my GitHub 😊
 
-I am studying at Trinity College Dublin now, and I like using my free time to write seome tech articles and publish them on my Blog 
+I am studying at Trinity College Dublin, and I like using my free time to write seome tech articles and publish them on my Blog 
 
 ## 📫 Contacts
 
