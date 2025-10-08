@@ -12,12 +12,11 @@
     ·
     <a href="/docs/readme_jp.md">日本語</a>
 </p>
-
 <!-- Social icons section -->
 <p align="center">
   <a href="https://linkedin.com/in/zihan-zeng-max-1b26a8201"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/zihantsang"><img width="46px" title="X(Twitter)" src="https://ww1.freelogovectors.net/wp-content/uploads/2023/07/twitter-x-logo-freelogovectors.net_.png"/></a>
+  <a href="https://www.instagram.com/zihantsang"><img width="46px" title="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/250px-Instagram_logo_2022.svg.png"/></a>
 </p>
 <br/>
 
