@@ -1,5 +1,5 @@
 <p align="center">
- <img width="200px" src="../resources/72234effd65bdc719fc801cce1fb1eee.jpg" align="center" alt="MarriotZ's GitHub" />
+ <img width="200px" src="./resources/72234effd65bdc719fc801cce1fb1eee.jpg" align="center" alt="MarriotZ's GitHub" />
  <h2 align="center">MarriotZ's GitHub</h2>
 </p>
 
@@ -8,7 +8,7 @@
     ·
     <a href="/docs/readme_cht.md">繁体中文</a>
     ·
-    <a href="/docs/readme_en.md">English</a>
+    <a href="./readme_en.md">English</a>
     ·
     <a href="/docs/readme_jp.md">日本語</a>
 </p>
