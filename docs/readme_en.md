@@ -8,7 +8,7 @@
     ·
     <a href="/docs/readme_cht.md">繁体中文</a>
     ·
-    <a href="/docs/readme_en.md">English</a>
+    <a href="./readme_en.md">English</a>
     ·
     <a href="/docs/readme_jp.md">日本語</a>
 </p>
@@ -22,7 +22,9 @@
 
 ## Hi Guys, Welcome to my GitHub 😊
 
-I am studying at Trinity College Dublin, and I like using my free time to write seome tech articles and publish them on my Blog 
+I expect to be awarded a Master of Science degree in Computer Science by April 2026, during studies I maintained an good average mark of 72.83/100.
+
+Now I am seeking full-time roles. If my background fits your needs, please contact me — I hope I can apply my technical skills and professional knowledge to create value for your team.
 
 ## 📫 Contacts
 - **WhatsApp** : (+353)894733047
