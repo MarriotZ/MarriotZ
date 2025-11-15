@@ -22,7 +22,7 @@
 
 ## Hi Guys, Welcome to my GitHub 😊
 
-I expect to be awarded a Master of Science degree in Computer Science by April 2026, during studies I maintained an average mark of 72.83/100.
+I expect to be awarded a Master of Science degree in Computer Science by April 2026.
 
 Now I am seeking full-time roles. If my background fits your needs, please contact me — I hope I can apply my technical skills and professional knowledge to create value for your team.
 
