@@ -21,7 +21,7 @@
 </p>
 <br/>
 
-## I'm Max ZENG 👋
+## 👋 I'm Max ZENG 
 
 Master in Computer Science (AI) - Intelligent Systems @ Trinity College Dublin · Expected Apr 2026  
 AI Software Engineering · LLM/RAG · Interactive Systems · Mapping/GIS · ADAS/Tooling
