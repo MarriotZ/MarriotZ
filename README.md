@@ -1,17 +1,18 @@
 <p align="center">
- <img width="200px" src="./resources/72234effd65bdc719fc801cce1fb1eee.jpg" align="center" alt="MarriotZ's GitHub" />
- <h2 align="center">MarriotZ's GitHub</h2>
+  <img width="200px" src="./resources/72234effd65bdc719fc801cce1fb1eee.jpg" align="center" alt="MarriotZ's GitHub" />
+  <h2 align="center">MarriotZ's GitHub</h2>
 </p>
 
 <p align="center">
-    <a href="/docs/readme_chs.md">简体中文</a>
-    ·
-    <a href="/docs/readme_cht.md">繁体中文</a>
-    ·
-    <a href="./readme_en.md">English</a>
-    ·
-    <a href="/docs/readme_jp.md">日本語</a>
+  <a href="/docs/readme_chs.md">简体中文</a>
+  ·
+  <a href="/docs/readme_cht.md">繁体中文</a>
+  ·
+  <a href="./readme_en.md">English</a>
+  ·
+  <a href="/docs/readme_jp.md">日本語</a>
 </p>
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/max-zeng-1b26a8201"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png"/></a>
@@ -20,39 +21,49 @@
 </p>
 <br/>
 
-## Hi Guys, Welcome to my GitHub 😊
+## Zihan Zeng (Max) 👋
 
-I expect to be awarded a Master of Science degree in Computer Science by April 2026.
+MSc Computer Science (AI) - Intelligent Systems @ Trinity College Dublin · Expected Apr 2026  
+AI Software Engineering · LLM/RAG · Interactive Systems · Mapping/GIS · ADAS/Tooling
 
-Now I am seeking full-time roles. If my background fits your needs, please contact me — I hope I can apply my technical skills and professional knowledge to create value for your team.
+- Open to **full-time AI SWE / LLM Engineer / Tooling Engineer /** opportunities
+- Interested in building **reliable, production-friendly systems** (UI, services, tooling) and **LLM-powered applications**
+
+## 🔭 Current focus
+- **FRIDAY / Cockpit Assistant**: multi-turn dialogue + function calling for in-car controls (ASR/TTS + streaming)
+- **LLM-Enhanced Automatic Place-Name Extraction from Literary Texts**: extracting & disambiguating place names into structured JSON/GeoJSON for interactive “literary walks”
+
+## ⭐ Featured projects
+
+- **FRIDAY / Cockpit Assistant** — voice/text UI, streaming chat, tool calling for vehicle controls  
+  👉 https://github.com/MarriotZ/cockpit-assistant
+- **Shotcut** — Video Editor Open Source Project  
+  👉 https://github.com/mltframework/shotcut
+
+## 🛠 Tech stack
+- **Languages**: C++ (11/14/17), Python, Bash
+- **UI**: Qt / PySide
+- **Build**: CMake, qmake
+- **RPC / API**: gRPC, Protobuf (incl. streaming), microservices & CLI tools
+- **Networking**: TCP/IP, UDP, HTTP/HTTPS
+- **Databases**: MySQL, Redis, MongoDB
+- **Dev & Collaboration**: Git, SVN, Jira, Confluence
+- **Linux Tooling**: gcc, gdb, vim, shell scripting
+- **LLM**: RAG, evaluation, prompt/system design, fine-tuning
+- **Design & Visualization**: design patterns; UML/architecture diagrams (ProcessOn, Visio); data visualization (Tableau)
+- **IDEs**: Cursor, VS Code, Visual Studio 
 
 ## 📫 Contacts
-- **WhatsApp** : (+353)894733047
-- **Wechat** : Zeng-zihan
-- **E-mail** : zihantsang@hotmail.com
+- **WhatsApp**: (+353)894733047
+- **WeChat**: Zeng-zihan
+- **E-mail**: zihantsang@hotmail.com
 
 ## 🏠 Personal Blog
+- **[Blog](https://blog.csdn.net/weixin_42839065)**
 
-- **[dev.to](https://blog.csdn.net/weixin_42839065)**
-
-
-<!-- ## 📊 统计数据:
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarriotZ&hide=contribs,prs&show_icons=true&theme=transparent&count_private=true&bg_color=start&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarriotZ&layout=compact&theme=transparent&hide_border=true" alt="" /> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
--->
-
+<!-- Optional: GitHub stats (keep minimal) -->
 <!--
-**MarriotZ/MarriotZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📊 Stats
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarriotZ&hide=contribs,prs&show_icons=true&theme=transparent&count_private=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarriotZ&layout=compact&theme=transparent&hide_border=true" /> |
+| --- | --- |
 -->
