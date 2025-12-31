@@ -23,7 +23,7 @@
 
 ## I'm Max ZENG 👋
 
-MSc Computer Science (AI) - Intelligent Systems @ Trinity College Dublin · Expected Apr 2026  
+Master in Computer Science (AI) - Intelligent Systems @ Trinity College Dublin · Expected Apr 2026  
 AI Software Engineering · LLM/RAG · Interactive Systems · Mapping/GIS · ADAS/Tooling
 
 - Open to **full-time AI SWE / LLM Engineer / Tooling Engineer /** opportunities
