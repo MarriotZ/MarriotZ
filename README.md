@@ -21,7 +21,7 @@
 </p>
 <br/>
 
-## Zihan Zeng (Max) 👋
+## I'm Max ZENG 👋
 
 MSc Computer Science (AI) - Intelligent Systems @ Trinity College Dublin · Expected Apr 2026  
 AI Software Engineering · LLM/RAG · Interactive Systems · Mapping/GIS · ADAS/Tooling
