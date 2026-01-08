@@ -30,12 +30,12 @@ AI Software Engineering · LLM/RAG · Interactive Systems · Mapping/GIS · ADAS
 - Interested in building **reliable, production-friendly systems** (UI, services, tooling) and **LLM-powered applications**
 
 ## 🔭 Current focus
-- **FRIDAY / Cockpit Assistant**: multi-turn dialogue + function calling for in-car controls (ASR/TTS + streaming)
+- **FRIDAY - Intelligent Cockpit Assistant**: multi-turn dialogue + function calling for in-car controls (ASR/TTS + streaming)
 - **LLM-Enhanced Automatic Place-Name Extraction from Literary Texts**: extracting & disambiguating place names into structured JSON/GeoJSON for interactive “literary walks”
 
 ## ⭐ Featured projects
 
-- **FRIDAY / Cockpit Assistant** — voice/text UI, streaming chat, tool calling for vehicle controls  
+- **FRIDAY - Intelligent Cockpit Assistant** — voice/text UI, streaming chat, tool calling for vehicle controls  
   👉 https://github.com/MarriotZ/cockpit-assistant-friday
 - **Shotcut** — Video Editor Open Source Project  
   👉 https://github.com/mltframework/shotcut
