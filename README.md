@@ -35,7 +35,7 @@ AI Engineering · LLM/RAG · Interactive Systems · Mapping/GIS · ADAS/Tooling
 
 ## ⭐ Featured projects
 
-- **FRIDAY - Intelligent Cockpit Assistant** — voice/text UI, streaming chat, tool calling for vehicle controls  
+- **FRIDAY - Intelligent Cockpit Voice Assistant** — voice/text UI, streaming chat, tool calling for vehicle controls  
   👉 https://github.com/MarriotZ/cockpit-assistant-friday
 - **Shotcut** — Video Editor Open Source Project  
   👉 https://github.com/mltframework/shotcut
