@@ -26,11 +26,11 @@
 Master in Computer Science (AI) - Intelligent Systems @ Trinity College Dublin · Expected Apr 2026  
 AI Engineering · LLM/RAG · Interactive Systems · Mapping/GIS · ADAS/Tooling
 
-- Open to **full-time AI SWE / LLM Engineer / Tooling Engineer /** opportunities
+- Open to **full-time AI Software Engineer / LLM Engineer / Toolchain Engineer /** opportunities
 - Interested in building **reliable, production-friendly systems** (UI, services, tooling) and **LLM-powered applications**
 
 ## 🔭 Current focus
-- **FRIDAY - Intelligent Cockpit Assistant**: multi-turn dialogue + function calling for in-car controls (ASR/TTS + streaming)
+- **FRIDAY - Intelligent Cockpit Assistant**: multi-turn dialogue + function calling for in-car controls
 - **LLM-Enhanced Automatic Place-Name Extraction from Literary Texts**: extracting & disambiguating place names into structured JSON/GeoJSON for interactive “literary walks”
 
 ## ⭐ Featured projects
