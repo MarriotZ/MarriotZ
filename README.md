@@ -27,7 +27,7 @@ Master in Computer Science (AI) - Intelligent Systems @ Trinity College Dublin �
 AI Engineering · LLM/RAG · Interactive Systems · Mapping/GIS · ADAS/Tooling
 
 - Open to **full-time AI Software Engineer / LLM Engineer / Toolchain Engineer /** opportunities
-- Interested in building **reliable, production-friendly systems** (UI, services, tooling) and **LLM-powered applications**
+- Interested in building **reliable, production-friendly systems** and **LLM-powered applications**
 
 ## 🔭 Current focus
 - **FRIDAY - Intelligent Cockpit Assistant**: multi-turn dialogue + function calling for in-car controls
@@ -41,13 +41,14 @@ AI Engineering · LLM/RAG · Interactive Systems · Mapping/GIS · ADAS/Tooling
   👉 https://github.com/mltframework/shotcut
 
 ## 🛠 Tech stack
-- **Languages**: C++ (11/14/17), Python, Bash
+- **Languages**: C++ (11/14/17/20 waiting for 26 :) ), Python, Bash
 - **UI**: Qt / PySide
 - **Build**: CMake, qmake
-- **RPC / API**: gRPC, Protobuf (incl. streaming), microservices & CLI tools
+- **RPC / API**: gRPC, Protobuf, microservices & CLI tools
 - **Networking**: TCP/IP, UDP, HTTP/HTTPS
-- **Databases**: MySQL, Redis, MongoDB
+- **Databases**: MySQL, MongoDB
 - **Dev & Collaboration**: Git, SVN, Jira, Confluence
+- **Middleware**: MQTT, Kafka, Redis
 - **Linux Tooling**: gcc, gdb, vim, shell scripting
 - **LLM**: RAG, evaluation, prompt/system design, fine-tuning
 - **Design & Visualization**: design patterns; UML/architecture diagrams (ProcessOn, Visio); data visualization (Tableau)
